@@ -9,3 +9,25 @@ ul{
 a{
     text-decoration: none;
 }
+.btn {
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 13px;
+    background: #ec5f4f;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+  }
+  hr{
+    color: grey;
+  }
+.navbar-toggler {
+    border: none;
+}
+
+
+/* filter: invert(0%) sepia(100%) saturate(5972%) hue-rotate(15deg) brightness(90%) contrast(100%); */
+ 
+/* todo */
+/* fix container section black margin */
