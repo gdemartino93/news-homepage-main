@@ -16,8 +16,8 @@ a{
     background: #ec5f4f;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-    word-spacing: 5px;
-    letter-spacing: 5px;
+    letter-spacing: 5px;    word-spacing: 5px;
+
   }
   hr{
     color: grey;
